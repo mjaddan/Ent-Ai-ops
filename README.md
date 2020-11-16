@@ -17,7 +17,7 @@ MLOps will guide the process to deploy Machine learning models using various tec
 3. Guideline here are to create a Enterprise AI using a model and MLOps deployment
 4. This template will not be a complete reference for MLOps pipeline with cloud or a end to end using cloud architecture
 
-![](\images\KnowledgeBase-AI.png)
+![](images/KnowledgeBase-AI.png)
 
 
 
