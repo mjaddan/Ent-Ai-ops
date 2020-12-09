@@ -16,6 +16,7 @@ MLOps will guide the process to deploy Machine learning models using various tec
 2. Post-prediction of the model or process is not intended in this paper
 3. Guideline here are to create a Enterprise AI using a model and MLOps deployment
 4. This template will not be a complete reference for MLOps pipeline with cloud or a end to end using cloud architecture
+5. Model uses precondition from building a knowledgebase system from both internal and external databases and systems
 
 ![](images/KnowledgeBase-AI.png)
 
@@ -28,6 +29,8 @@ This template contains code for creating model(sample), saving and creating an A
 ### Architecture and Features
 
 Architecture and features covered in this paper will useful to build your ML pipeline once you model is created. you can use sample model code and scripts for the Identity management model.
+
+![](images/Mlops_Workflow.png)
 
 1. Creating a Model
 
@@ -74,7 +77,8 @@ To get started and deploy the model and solution, you will need Python setup and
 You will find the details of the code and scripts in the repository here
 
 #### References
-
+* [General Knowledgebase Systems](https://en.wikipedia.org/wiki/Knowledge-based_systems)
+* [Knowledbase Transformations](https://www.sciencedirect.com/science/article/pii/S0022000097914549)
 
 ## Contribution
-
+This project or the paper welcomes contributions and suggestions. This paper is aindividual research, development and contribution which can be adopted based on your process and requirements. please see limitation of the paper and note the pre requirements before adoption or contribution to this paper.
