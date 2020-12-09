@@ -30,6 +30,8 @@ This template contains code for creating model(sample), saving and creating an A
 
 Architecture and features covered in this paper will useful to build your ML pipeline once you model is created. you can use sample model code and scripts for the Identity management model.
 
+![](images/Mlops_Workflow.png)
+
 1. Creating a Model
 
 2. Saving a Model
