@@ -77,7 +77,8 @@ To get started and deploy the model and solution, you will need Python setup and
 You will find the details of the code and scripts in the repository here
 
 #### References
-
+* [General Knowledgebase Systems](https://en.wikipedia.org/wiki/Knowledge-based_systems)
+* [Knowledbase Transformations](https://www.sciencedirect.com/science/article/pii/S0022000097914549)
 
 ## Contribution
-
+This project or the paper welcomes contributions and suggestions. This paper is aindividual research, development and contribution which can be adopted based on your process and requirements. please see limitation of the paper and note the pre requirements before adoption or contribution to this paper.
